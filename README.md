@@ -17,10 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 ## 📈 GitHub Stats
 
 ![KaiTries's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiTries&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiTries&layout=compact&theme=radical)
+
 
 ## 🔗 Links
-
-- [LinkedIn](https://www.linkedin.com/in/kai-valentin-schultz-8a3031172/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/kai-valentin-schultz-8a3031172/)
 
 ## 📝 Latest Blog Posts
 
