@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 - 🔭 I’m currently working on a way to change text in realtime without readers noticing
 - 🌱 I’m currently learning how to finish projects i started 
-- 📫 How to reach me: kai.schultz@bluewin.ch
 - ⚡ Fun fact: Hippos dont swim the walk underwater
 
 ## 🛠️ Languages and Tools
@@ -21,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 
 ## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/kai-valentin-schultz-8a3031172/)
 
 ## 📝 Latest Blog Posts
 
